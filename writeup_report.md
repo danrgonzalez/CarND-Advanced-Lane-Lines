@@ -109,7 +109,7 @@ I did this after identifiying lane lines and fitting with a polynomial in the me
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
-I implemented this step in a method called `pipeline(img)` (right after calculating the radius of curvature and center offset) in file `P4.ipynb` (in cell `In [446]`). Here is an example of my result on a test image:
+I implemented this step in a method called `pipeline(img)` (right after calculating the radius of curvature and center offset) in file `P4.ipynb` (in cell `In [496]`). Here is an example of my result on a test image:
 
 ![alt text][image6]
 
